@@ -1,16 +1,26 @@
-### Hi there 👋
+<h3 align="center">
+Hi there, I'm <a href="https://kyocode.dev/" target="_blank" rel="noreferrer">Pistolbz</a> 👋
+</h3>
 
-<!--
-**pistolbz/pistolbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+I'm a Back-end Web Developer 💻, Osinter 📸, and Wibuer 🎨!
+</h2> 
 
-Here are some ideas to get you started:
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I'm currently working on
+
+- KyoOsint project
+- Evilginx project
+
+## 🌱 I'm currently learning
+
+- OSINT
+- Cyber Intelligence
+
+## 📈 GitHub Stats 
+
+[![Pistolbz's github stats](https://github-readme-stats.vercel.app/api?username=pistolbz)](https://github.com/pistolbz)
+
+## 🎨 Github Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pistolbz&layout=compact)](https://github.com/pistolbz)
