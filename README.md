@@ -18,9 +18,7 @@ I love the entire process of developing creative websites. I love the challenge 
 - OSINT
 - Cyber Intelligence
 
-## 📈 GitHub Stats 
-
-[![Pistolbz's github stats](https://github-readme-stats.vercel.app/api?username=pistolbz)](https://github.com/pistolbz)
-
-## 🎨 Github Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pistolbz&layout=compact)](https://github.com/pistolbz)
+## 📈 GitHub Profile
+|Stats|Top Langs|
+|---------------------------------------------|------------------------------------------------------------------|
+|[![Pistolbz's github stats](https://github-readme-stats.vercel.app/api?username=pistolbz)](https://github.com/pistolbz)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pistolbz&layout=compact&show_icons=true)](https://github.com/pistolbz)|
